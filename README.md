@@ -1,4 +1,4 @@
-# SMRB
+# SMRB 🇺🇦
 - <h1>Boris</h1>
 - <h1>Smolin</h1>
 
